@@ -1,0 +1,14 @@
+.main img{
+    width: 40%;
+    margin: auto;
+    height: 120px;
+}
+
+.card{
+min-height: 100%;
+} 
+.details {
+    background-color: blue;
+    margin-bottom:5px;
+    margin-top:15px;
+}
